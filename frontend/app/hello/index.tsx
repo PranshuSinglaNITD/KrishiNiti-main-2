@@ -154,7 +154,7 @@ export default function KrishiNitiDashboard() {
           <div style={{ background: "#fff", border: "0.5px solid #ddd", borderRadius: 8, padding: "10px 16px", fontSize: 12 }}>
             <div style={{ fontSize: 10, color: "#888", marginBottom: 4 }}>API Base URL</div>
             <code style={{ fontSize: 12, color: "#1a5a9c", fontFamily: "monospace" }}>
-              http://localhost:8000/api/ml/
+              {process.env.NEXT_PUBLIC_API_URL}/api/ml/
             </code>
           </div>
         </div>

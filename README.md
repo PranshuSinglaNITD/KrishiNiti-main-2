@@ -155,8 +155,8 @@ This project demonstrates:
 
 ## 🤝 Team
 
-**Dhurandhar Team**
-HackIndia Spark 6 | NIT Delhi
+**Fantastic_Four Team**
+Hack2Skill Google Solutions Challenge
 
 ---
 

@@ -574,7 +574,7 @@ export default function LandingPage() {
                 fontFamily: "'DM Mono', monospace",
               }}
             >
-              Powered by Team Dhurandhar · KRISHINITI
+              Powered by Team Fantastic_Four · KRISHINITI
             </span>
           </div>
 
